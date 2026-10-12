@@ -1,3 +1,0 @@
-﻿Ich soll für mein STM32 einen gleitenden Mittelwert Filter implementieren. Ich habe dafür die Rekursionsgleichung $\overline{x}_i = \frac{1}{N} * \sum_{j=i-(N-1)}^{i} * x_j$
-
-Was ist ein gleitender Mittelwert Filter, was macht dieser und was für Funktionen brauche ich, um diesen zu implementieren?
